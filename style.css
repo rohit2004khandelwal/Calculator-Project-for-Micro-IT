@@ -17,10 +17,11 @@ body{
     max-width: 400px;
     height: 400px;
     background-color: rgb(23, 25, 30);
+    /* background-color: #491fe0 */
     /* background: #030026;
     background: linear-gradient(90deg,rgba(3, 0, 38, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);  */
     border-radius: 10px;
-    box-shadow: 1px 5px 20px rgba(0, 0, 255, 0.807), -1px -5px 20px rgba(0, 0, 255, 0.807);
+    box-shadow: 1px 5px 20px rgba(47, 47, 223, 0.733), -1px -5px 20px rgba(0, 0, 255, 0.807);
     
 }
 .display{
@@ -80,4 +81,8 @@ body{
 }
 #equal{
     width: 39%;
+    color: aquamarine;
+}
+.row1 button{
+    color: aquamarine;
 }
